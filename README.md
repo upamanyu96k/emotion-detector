@@ -1,5 +1,3 @@
-# Emotion Detector
+# Final Project: Emotion Detector
 
-This is my final project for Coursera.
-
-It detects emotions from text using AI.
+This is the Final Project for Emotion Detector using Watson NLP.
